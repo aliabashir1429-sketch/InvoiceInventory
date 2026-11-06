@@ -1,0 +1,27 @@
+{
+  "installationFolder": "C:\\Users\\Mg\\InvoiceInventory\\node_modules\\react-native-worklets\\android\\build\\intermediates\\prefab_package\\debug\\prefab",
+  "gradlePath": ":react-native-worklets",
+  "packageInfo": {
+    "packageName": "react-native-worklets",
+    "packageVersion": "0.11.1",
+    "packageSchemaVersion": 2,
+    "packageDependencies": [],
+    "modules": [
+      {
+        "moduleName": "worklets",
+        "moduleHeaders": "C:\\Users\\Mg\\InvoiceInventory\\node_modules\\react-native-worklets\\android\\build\\prefab-headers\\worklets",
+        "moduleExportLibraries": [],
+        "abis": [
+          {
+            "abiName": "arm64-v8a",
+            "abiApi": 24,
+            "abiNdkMajor": 27,
+            "abiStl": "c++_shared",
+            "abiLibrary": "C:\\Users\\Mg\\InvoiceInventory\\node_modules\\react-native-worklets\\android\\build\\intermediates\\cxx\\Debug\\v2160346\\obj\\arm64-v8a\\libworklets.so",
+            "abiAndroidGradleBuildJsonFile": "C:\\Users\\Mg\\InvoiceInventory\\node_modules\\react-native-worklets\\android\\.cxx\\Debug\\v2160346\\arm64-v8a\\android_gradle_build.json"
+          }
+        ]
+      }
+    ]
+  }
+}

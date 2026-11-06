@@ -1,0 +1,1 @@
+C:\Users\Mg\InvoiceInventory\android\app\build\intermediates\cxx\Debug\g12w1k1z\obj\arm64-v8a

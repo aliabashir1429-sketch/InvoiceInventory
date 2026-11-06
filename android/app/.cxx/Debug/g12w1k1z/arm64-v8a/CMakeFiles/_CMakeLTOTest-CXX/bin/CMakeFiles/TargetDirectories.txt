@@ -1,0 +1,4 @@
+C:/Users/Mg/InvoiceInventory/android/app/.cxx/Debug/g12w1k1z/arm64-v8a/CMakeFiles/_CMakeLTOTest-CXX/bin/CMakeFiles/foo.dir
+C:/Users/Mg/InvoiceInventory/android/app/.cxx/Debug/g12w1k1z/arm64-v8a/CMakeFiles/_CMakeLTOTest-CXX/bin/CMakeFiles/boo.dir
+C:/Users/Mg/InvoiceInventory/android/app/.cxx/Debug/g12w1k1z/arm64-v8a/CMakeFiles/_CMakeLTOTest-CXX/bin/CMakeFiles/edit_cache.dir
+C:/Users/Mg/InvoiceInventory/android/app/.cxx/Debug/g12w1k1z/arm64-v8a/CMakeFiles/_CMakeLTOTest-CXX/bin/CMakeFiles/rebuild_cache.dir

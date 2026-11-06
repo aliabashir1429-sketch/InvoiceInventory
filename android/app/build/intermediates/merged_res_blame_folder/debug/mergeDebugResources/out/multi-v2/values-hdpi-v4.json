@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.invoiceinventory.app-mergeDebugResources-61:/values-hdpi-v4/values-hdpi-v4.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Mg\\.gradle\\caches\\8.14\\transforms\\526e0fde2eff9d44652c026e21e279c0\\transformed\\appcompat-1.7.1\\res\\values-hdpi-v4\\values-hdpi-v4.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "6",
+                        "endColumns": "13",
+                        "endOffsets": "327"
+                    }
+                }
+            ]
+        }
+    ]
+}

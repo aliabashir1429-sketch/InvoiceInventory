@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.invoiceinventory.app-mergeDebugResources-61:/values-h550dp-port-v13/values-h550dp-port-v13.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Mg\\.gradle\\caches\\8.14\\transforms\\2e2e00c714e614ff27079c84e72144cf\\transformed\\material-1.13.0\\res\\values-h550dp-port-v13\\values-h550dp-port-v13.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "64",
+                        "endOffsets": "115"
+                    }
+                }
+            ]
+        }
+    ]
+}
